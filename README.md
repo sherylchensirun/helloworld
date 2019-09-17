@@ -1,2 +1,2 @@
-# helloworld <br>
-this is my first python
+# Homework 1 <br>
+this is my first homework
