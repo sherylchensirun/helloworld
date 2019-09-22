@@ -6,6 +6,7 @@ moves = 1
 lives = 3
 if moves == [11, 21 , 31]:
     lives = lives - 1
+    print('You have just lost a life. You are now left with ' + str(lives) + ' lives')
 
 for i in secret_escape_combi:
     while answer == secret_escape_combi[secret_escape_combi.index(i)] is False:
